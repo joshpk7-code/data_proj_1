@@ -7,7 +7,7 @@ Hello and welcome to my portfolio focused around Data Analysis where I will be b
 
 | Category        | Known Tools                    | Learning Tools     |
 |----------------|--------------------------------|---------------------|
-| Languages       | Python, SQL, R                 | Python             | 
+| Languages       | SQL, R                         | Python             | 
 | Libraries       |                                | Pandas, NumPy      |
 | Visualisation   | Power BI                       |                    |
 | Spreadsheets    | Excel                          |                    |
