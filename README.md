@@ -17,7 +17,7 @@ Currently, I am building my first analysis project which includes building my fi
   -Strengthening my SQL query skills
   -Enhancing my visualisation tools with Power BI
 
-All Progress will 
+All Progress will be updated below
 
 
 # Contact Details:
