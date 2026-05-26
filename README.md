@@ -24,5 +24,7 @@ Progress will continuously be updated below
 
 # Contact Details:
 
-LinkedIN: www.linkedin.com/in/joshua-ponter-kirkham-a58003206
-Email: joshpk7@gmail.com
+|Type      |Link                                                    |
+|----------|--------------------------------------------------------|
+|LinkedIN  | www.linkedin.com/in/joshua-ponter-kirkham-a58003206    |
+|Email     | joshpk7@gmail.com                                      |
