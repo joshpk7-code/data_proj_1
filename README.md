@@ -1,16 +1,16 @@
 # Data Analysis Portfolio - Josh PK
 
-Hello and welcome to my portfolio focused around Data Analysis where I will be building self-catered and self-taught projects that will demonstrate my ability to collect, clean, analyse and visualise data in order to support and taoilor real-world business decisions.
+Hello and welcome to my portfolio focused around Data Analysis where I will be building self-catered and self-taught projects that will demonstrate my ability to collect, clean, analyse and visualise data in order to support and tailor real-world business decisions.
 
 
 # Skills and Tools:
 
-| Category        | Tools                          |
-|----------------|--------------------------------|
-| Languages       | Python, SQL, R                 |
-| Libraries       | Pandas, NumPy                  |
-| Visualisation   | Power BI                       |
-| Spreadsheets    | Excel                          |
+| Category        | Known Tools                    | Learning Tools     |
+|----------------|--------------------------------|---------------------|
+| Languages       | Python, SQL, R                 | Python             | 
+| Libraries       |                                | Pandas, NumPy      |
+| Visualisation   | Power BI                       |                    |
+| Spreadsheets    | Excel                          |                    |
 
 
 # Projects:
