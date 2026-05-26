@@ -5,19 +5,21 @@ Hello and welcome to my portfolio focused around Data Analysis where I will be b
 
 # Skills and Tools:
 
-Languages:        SQL, Python, R
-Libraries:        Pandas, NumPy
-Visualisations:   Power BI
-Spreadsheets:     Excel
+| Category        | Tools                          |
+|----------------|--------------------------------|
+| Languages       | Python, SQL, R                 |
+| Libraries       | Pandas, NumPy                  |
+| Visualisation   | Power BI                       |
+| Spreadsheets    | Excel                          |
 
 
 # Projects:
 
-Currently, I am building my first analysis project which includes building my first end-to-end data analysis project where I will be:
-  -Strengthening my SQL query skills
-  -Enhancing my visualisation tools with Power BI
+| Project | Description | Tools Used |
+|--------|-------------|------------|
+| Coming soon | Currently, I am building my first analysis project which includes building my first end-to-end data analysis project | SQL, Power BI |
 
-All Progress will be updated below
+Progress will continuously be updated below
 
 
 # Contact Details:
