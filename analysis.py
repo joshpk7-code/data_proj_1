@@ -93,5 +93,3 @@ plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 plt.savefig("monthly_sales_trend.png")
 plt.show()
-
-print("\nChart saved!")
