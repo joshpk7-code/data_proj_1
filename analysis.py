@@ -85,10 +85,10 @@ print(monthly_revenue)
 
 # Plot it
 plt.figure(figsize=(14, 6))
-monthly_revenue.plot(kind="line", color="green", linewidth=2, marker="o")
+monthly_revenue.plot(kind="line", color="yellow", linewidth=3, marker="o")
 plt.title("Monthly Sales Trend")
 plt.xlabel("Month")
-plt.ylabel("Revenue ($)")
+plt.ylabel("Revenue")
 plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 plt.savefig("monthly_sales_trend.png")
